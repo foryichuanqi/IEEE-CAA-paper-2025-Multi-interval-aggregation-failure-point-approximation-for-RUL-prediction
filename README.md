@@ -1,6 +1,6 @@
 # IEEE-CAA-paper-2025-Multi-interval-aggregation-failure-point-approximation-for-RUL-prediction
 
-Paper: IEEE-CAA-paper-2025-Multi-interval-aggregation-failure-point-approximation-for-RUL-prediction
+Paper: Multi-interval-aggregation-failure-point-approximation-for-RUL-prediction
 
 The website of the paper：https://ieeexplore.ieee.org/abstract/document/10664192
 
