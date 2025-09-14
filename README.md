@@ -1,6 +1,6 @@
 # IEEE-CAA-paper-2025-Multi-interval-aggregation-failure-point-approximation-for-RUL-prediction
 
-Remaining useful life prediction
+Remaining useful life prediction in CALCE battery and milling cutter dataset.
 
 Paper: Multi-interval aggregation failure point approximation for RUL prediction
 
